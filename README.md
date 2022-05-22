@@ -1,2 +1,2 @@
 # leetcode-45-days-challenge
-!st easy problem of 45 days of challenge.
+1st easy problem of 45 days of challenge.
